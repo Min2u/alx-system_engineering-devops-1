@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * print_numbers - to print numbers followed by a new line
- * @n: num of integers passed to the function
- * @separator: string printed between numbers
+ * print_numbers - prints numbers, followed by a new line
+ * @n: number of integers passed to the function
+ * @separator: string to be printed between numbers
  * @...: a variable num of numbers to be printed
  */
 
